@@ -13,4 +13,4 @@ Back-end:
   -MongoDB/Mongoose, 
   -JSON Web Token, 
   -Multer, 
-  -BCrypt
+  -BCrypt 
